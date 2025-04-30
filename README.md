@@ -83,5 +83,5 @@ Name: HARSHAVARDHAN.K.B
 
 **Result :**
 circle drawing algorithm using c is executed successfully
-](https://github.com/Harshavardhan30052007/GAME.-DEVELOPMENT/blob/main/README.md)# EX 3 : Circle Drawing Algorithm
+
 
