@@ -22,7 +22,7 @@ Step  6 : Display the output.
 Step 7 : stop.
 
 **Program :**
-
+```
 #include <stdio.h>
 #include <conio.h>
 #include <graphics.h>
@@ -73,6 +73,7 @@ int main() {
     return 0;
 }
 
+```
 **Output :**
 
 Register No; 212224240054
